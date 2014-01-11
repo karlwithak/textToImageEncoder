@@ -10,9 +10,11 @@ For example, 300 characters (a bit over 2 tweets) would be converted into a 10x1
 
 textToImage
 ------------
-Converts inputted text to an image. This image can then be used with the sister tool to convert back to the original text
+Converts inputted text to an image. This image can then be used with the sister tool to convert back to the original text.<br>
+Try it <a href="http://csclub.uwaterloo.ca/~nkhrynui/pages/textToImage.html" target="_blank"> here</a>
 
 
 imageToText
 ------------
-To be used to convert an image back to original text.
+To be used to convert an image back to original text.<br>
+Try it <a href="http://csclub.uwaterloo.ca/~nkhrynui/pages/imageToText.html" target="_blank"> here</a>
